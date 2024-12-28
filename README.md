@@ -1,3 +1,4 @@
 # apnacollege-demo
 This is my first git Repository.
-Author-shubham pal
+<br>
+Author-Shubham Pal
